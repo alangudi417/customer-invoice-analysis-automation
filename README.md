@@ -5,16 +5,6 @@ This project automates the creation of a comprehensive invoice analysis database
 
 The automation replaces a highly manual reconciliation process that previously required analysts to merge data from several independent reports before performing invoice analysis.
 
-## 📂 Data Sources
-- Source        (Purpose)
-- Database	    (Master invoice database)
-- ZSO_SEARCH	(Invoice line details)
-- UDM_Dispute	(Dispute information)
-- TAR001	    (Tariff values)
-- UDM_Notes	    (Dispute notes)
-- VBRP	        (Tax amounts)
-- ZREPRINT	    (Official invoice totals)
-
 ## 💼 Business Problem
 Invoice analysts receive information from multiple SAP reports and supporting workbooks, each containing only part of the information required for invoice validation.
 
@@ -30,6 +20,16 @@ Before this automation, analysts manually:
 - Generated reports for each Area of Responsibility (AOR)
 
 This process required extensive copy-and-paste operations, manual lookups, and repeated filtering, making it time-consuming and susceptible to data inconsistencies.
+
+## 📂 Data Sources
+- Source        (Purpose)
+- Database	    (Master invoice database)
+- ZSO_SEARCH	(Invoice line details)
+- UDM_Dispute	(Dispute information)
+- TAR001	    (Tariff values)
+- UDM_Notes	    (Dispute notes)
+- VBRP	        (Tax amounts)
+- ZREPRINT	    (Official invoice totals)
 
 ## ⚙️ Automation Workflow
 The VBA automation consolidates seven independent data sources into a single validated invoice database through a four-stage workflow.
