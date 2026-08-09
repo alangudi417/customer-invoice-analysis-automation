@@ -21,6 +21,86 @@ Before this automation, analysts manually:
 
 This process required extensive copy-and-paste operations, manual lookups, and repeated filtering, making it time-consuming and susceptible to data inconsistencies.
 
+## ⚙️ Skills Developed
+
+#### 🛠️ Tools
+
+`Microsoft Excel` `VBA` `Excel Object Model` `Pivot Tables` `Dictionaries` `AutoFilter` `Git` `GitHub`
+
+#### VBA & Excel Automation
+
+- VBA Macro Development
+- Workbook & Worksheet Automation
+- Excel Object Model
+- Automated File Processing
+- Automated Database Construction
+- Automated Report Generation
+- Standardized Workbook Generation
+- AOR-Based Workbook Automation
+
+#### Data Integration & Processing
+
+- Multi-Source Data Integration
+- Multi-Workbook Data Processing
+- Data Consolidation
+- Data Cleaning & Transformation
+- Data Filtering & Validation
+- Cross-Workbook Data Matching
+- Record Enrichment
+- Automated Data Preparation
+
+#### Data Categorization & Segmentation
+
+- Invoice Classification
+- Business Rule-Based Categorization
+- One-Line vs. Multi-Line Invoice Classification
+- TLA Invoice Identification
+- Area of Responsibility (AOR) Segmentation
+- Automated Data Filtering
+- Customer & Dispute Segmentation
+
+#### Financial Data Validation
+
+- Invoice Reconciliation
+- Financial Data Validation
+- Tax & Tariff Reconciliation
+- Invoice Total Validation
+- Calculation-Based Data Quality Checks
+- Discrepancy Identification
+- SAP Invoice Validation
+
+#### Data Enrichment
+
+- Invoice Detail Integration
+- Dispute Information Integration
+- Dispute Notes Integration
+- Tax Data Integration
+- Tariff Data Integration
+- Customer & Account Information Enrichment
+- Cross-Source Data Reconciliation
+
+#### Process Automation
+
+- End-to-End Workflow Automation
+- Repetitive Task Automation
+- Automated Data Consolidation
+- Automated Validation Workflows
+- Process Standardization
+- Manual Effort Reduction
+- Human Error Reduction
+- Scalable Invoice Processing
+
+#### Business Analysis
+
+- Invoice Analysis
+- Financial Reconciliation
+- Dispute Analysis
+- Invoice Exception Identification
+- Financial Exposure Analysis
+- Operational Reporting
+- Business Rule Implementation
+- Data-Driven Decision Support
+
 ## 📂 Data Sources
 - Source        (Purpose)
 - Database	    (Master invoice database)
@@ -118,17 +198,6 @@ After all four macros have completed successfully, the project produces:
 - Automatic AOR report generation
 - Workbook automation
 - Standardized output structure
-
-## 🛠️ Technologies Used
-- Microsoft Excel VBA
-- Excel Object Model
-- Workbook Automation
-- Worksheet Manipulation
-- AutoFilter
-- Dictionaries
-- Dynamic Arrays
-- Financial Validation Logic
-- File System Operations
 
 ## 🛠️ Screenshots
 
